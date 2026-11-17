@@ -3,7 +3,7 @@ name = "SigmaOS-autoconf"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "autoconf component"
+description = "Autoconf"
 upstream = []
 
 [contract]
